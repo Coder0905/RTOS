@@ -12,3 +12,17 @@ This project showcases a basic real-time operating system (RTOS) implementation 
 
 ## 📁 Structure
 
+## 🛠️ Getting Started
+1. Clone the repository
+2. Build using Makefile or CMake
+3. Flash to a supported embedded board (e.g. STM32, LPC, ESP32)
+
+## 📚 Requirements
+- ARM-GCC or toolchain for your MCU
+- Basic knowledge of embedded C/C++
+- UART/USB debugger (optional)
+
+## 📄 License
+MIT License
+
+---
